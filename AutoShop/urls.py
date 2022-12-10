@@ -6,5 +6,4 @@ urlpatterns = [
     path('api/', include('api.urls')),
     path('__debug__/', include('debug_toolbar.urls')),
     path('', include('shop.urls')),
-    path('_cart/', include('lorikeet.urls', namespace='lorikeet')),
 ]
