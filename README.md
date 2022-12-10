@@ -4,7 +4,7 @@ Website for creating invoices and getting info about them by API (DRF).
 
 ## How to run.
 
-Firstly, install requirements
+Firstly, install requirements.
 ```
 pip install -r requirements.txt
 ```
