@@ -1,9 +1,5 @@
-from django.contrib.auth.models import User, Group
-from django.db.models import Prefetch
-from rest_framework import viewsets
 from rest_framework import permissions
 from rest_framework.permissions import IsAuthenticated
-from rest_framework.renderers import BrowsableAPIRenderer
 
 from .serializers import *
 from shop.models import *
