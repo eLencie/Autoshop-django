@@ -1,6 +1,6 @@
 # Django-website.
 
-Website for creating invoices and getting info about them by API through token access.
+Website for creating invoices and getting info about them on webpage or by API through token access.
 
 ## How to run.
 
