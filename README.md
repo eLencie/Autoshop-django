@@ -1,6 +1,6 @@
 # Django-website.
 
-Website with simplest css styles for creating invoices and getting info about them on webpage or by API through token access.
+Website for creating invoices and getting info about them on webpage with simplest css-style or by API through token access.
 
 ## How to run.
 
